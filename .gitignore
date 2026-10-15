@@ -1,0 +1,36 @@
+# Secrets & Environment variables
+**/.env
+**/.env.local
+**/.env.*.local
+.env
+.env.*
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*.so
+**/.Python
+**/env/
+**/venv/
+**/.venv/
+**/build/
+**/dist/
+
+# Node / Frontend
+**/node_modules/
+**/.next/
+**/out/
+**/.npm
+npm-debug.log*
+yarn-debug.log*
+
+# Audio and temporary cache
+**/*.mp3
+**/*.wav
+**/temp/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

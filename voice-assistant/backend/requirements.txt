@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+openai-agents
+python-dotenv
+pydantic-settings
+duckduckgo-search
+edge-tts
+python-multipart
